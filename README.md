@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Simple Line Icon
 
 You can use the [editor on GitHub](https://github.com/asif7774/Simple-Line-Icon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Demo - https://asif7774.github.io/Simple-Line-Icon/
 
 ```markdown
 Syntax highlighted code block
