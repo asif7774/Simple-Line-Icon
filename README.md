@@ -12,7 +12,7 @@ All icons can be viewed at [here.](https://asif7774.github.io/Simple-Line-Icon/)
 ## License
 You're free to use the web-font in a template/theme intended for sale on marketplaces like Themeforest.
 
-CSS, SCSS & LESS files are under [MIT License](/LICENSE.md).
+CSS, SCSS & LESS files are under [MIT License](https://github.com/asif7774/Simple-Line-Icon/blob/master/LICENSE).
 
 ## VERSIONS
 
